@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Install') {
             steps {
-                sh "echo hello there"
+                sh "mvn clean test"
             }
         }
     }
