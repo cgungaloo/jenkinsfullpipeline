@@ -1,0 +1,11 @@
+commit 6fe69fe2e0993055f2d9a6f5852dc95a3b107711
+tree d371e5ac39a424a7ac14c0201035a8d6972e6136
+parent ac5f7dfb9704358af859c5dc2f1d5ae36679ac5b
+author cgungaloo <cgungaloo@yahoo.com> 2019-05-25 22:35:47 +0100
+committer GitHub <noreply@github.com> 2019-05-25 22:35:47 +0100
+
+    Update Jenkinsfile
+
+
+
+:100644 100644 0f88b8d492089c34c030e545c40f90e6e81a7fc8 c7568360de417a0f96f5a82cc716e3da611e6a71 M	Jenkinsfile
